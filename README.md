@@ -28,30 +28,8 @@ My name is **Alejo Spinelli**, I am 21 years old, and I have 3 years of experien
 💻 Full Stack Developer / Programmer Analyst.<br><br>
 🚀 Passionate about crafting scalable and efficient solutions.<br><br>
 📚 Always learning and exploring new technologies.<br><br>
-🎓 Studied Analyst Programmer at Universidad CLAEH and currently studying Web Development at UTEC.<br><br>
+🎓 Studied Analyst Programmer at Universidad CLAEH and currently studying Web Development at Jovenes A Programar UTEC/Plan Ceibal.<br><br>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # 💻 Tech Stack
 
