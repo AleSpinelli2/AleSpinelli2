@@ -1,6 +1,8 @@
+![banner-github](https://github.com/user-attachments/assets/95cbbabb-0954-40de-b902-c0597f4074e1)
 <p align="center"><img src="https://www.canva.com/design/DAGonJOuxqs/qUIxTbVUIFq9heIBXpcbnw/view?utm_content=DAGonJOuxqs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdca9214e72"></p>
 <h1 align="center">Hi There 👋  I am Alejo Spinelli ✨ </h1> 
 <div align="center">
+
 
 
 <a href="https://www.linkedin.com/in/alejo-spinelli/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alejo Linkedin" style="height: 40px;"/></a>
