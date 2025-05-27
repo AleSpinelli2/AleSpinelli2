@@ -21,7 +21,7 @@
 My name is **Alejo Spinelli**, I am 21 years old, and I have 3 years of experience in software development. I studied **Analyst Programmer at Universidad CLAEH**, and I'm currently expanding my skills in **Web Development and Testing at UTEC**. My passion spans both frontend and backend development, and I especially enjoy building APIs and creating tailored software solutions. I consider myself passionate about problem-solving through programming and am committed to continuous learning to stay up-to-date with the latest technologies and best practices in software engineering.<br>
 
 <div style="margin-top: 80px;">
-  <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+  <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </div>
 
 <div align="left">
