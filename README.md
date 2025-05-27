@@ -38,7 +38,7 @@ My name is **Alejo Spinelli**, I am 21 years old, and I have 3 years of experien
 <p align="left">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,py,cs,dart&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,py,cs,ruby&perline=12" />
   </a>
 </p>
 
