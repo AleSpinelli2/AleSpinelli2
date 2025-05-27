@@ -74,7 +74,7 @@ My name is **Alejo Spinelli**, I am 21 years old, and I have 3 years of experien
 <p align="left">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,docker,postman,vercel,netlify,figma,stackoverflow,webpack,sequelize&perline=13" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,docker,postman,vercel,netlify,figma,stackoverflow,webpack,sequelize,npm&perline=13" />
   </a>
 </p>
 
